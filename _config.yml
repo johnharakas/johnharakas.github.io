@@ -3,3 +3,5 @@
   permalink: /blog/:year/:month/:day/:title
   baseurl: "/harakasj.github.io" 
   url: "http://harakasj.github.io"
+  plugins:
+    - jekyll-seo-tag
