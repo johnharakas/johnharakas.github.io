@@ -1,3 +1,5 @@
+  title: John Harakas
+  description: Projects, work, and experiments. 
   name: John Harakas
   markdown: kramdown
   permalink: /blog/:year/:month/:day/:title
