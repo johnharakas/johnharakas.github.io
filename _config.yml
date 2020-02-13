@@ -3,7 +3,7 @@
   name: John Harakas
   markdown: kramdown
   permalink: /blog/:year/:month/:day/:title
-  baseurl: "/harakasj.github.io" 
-  url: "http://harakasj.github.io"
+  baseurl: "/johnharakas.github.io" 
+  url: "http://johnharakas.github.io"
   plugins:
     - jekyll-seo-tag
